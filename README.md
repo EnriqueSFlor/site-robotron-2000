@@ -2,6 +2,6 @@
 
 https://site-robotron-2000.vercel.app/
 
-![image](https://user-images.githubusercontent.com/66396885/221722845-0fe8c7a9-0bf3-4824-9721-18d318ae0137.png)
+![image](https://user-images.githubusercontent.com/66396885/221723208-94b107f1-8783-4ea6-b545-c349d1b8e48e.png)
 
 
